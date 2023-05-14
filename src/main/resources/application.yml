@@ -2,7 +2,16 @@
 
 resilience4j.retry:
     instances:
-        circuitBreaker-abc-5times:
+        retry-abc:
             maxAttempts: 5
-            waitDuration: 0.5s
+            waitDuration: 1s
             enableExponentialBackoff: true
+
+
+
+resilience4j.circuitbreaker:
+    instances:
+        circuitBreaker-def:
+            failureRateThreshold: 50
+          
+           

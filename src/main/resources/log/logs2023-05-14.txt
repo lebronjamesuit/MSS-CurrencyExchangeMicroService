@@ -1,0 +1,322 @@
+2023-05-14T13:25:22.232+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:22.233+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:22 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:22.469+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:22.471+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:22 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:22.717+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:22.720+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:22 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:22.964+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:22.965+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:22 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:23.196+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:23.198+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:23 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:23.442+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:23.444+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:23 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:23.693+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:23.694+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:23 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:23.931+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:23.932+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:23 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:24.191+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:24.193+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:24 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:24.424+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:24.425+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:24 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:24.673+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:24.675+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:24 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:24.902+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:24.904+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:24 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:25.131+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:25.133+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:25 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:25.359+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:25.360+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:25 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:25.587+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:25.591+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:25 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:25.819+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:25.821+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:25 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:26.046+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:26.047+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:26 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:26.276+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:26.277+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:26 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:26.503+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:26.505+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:26 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:26.732+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:26.733+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:26 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:26.959+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:26.961+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:26 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:27.186+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:27.187+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:27 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:27.421+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:27.422+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:27 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:27.656+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:27.659+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:27 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:27.888+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:27.890+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:27 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:28.117+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:28.119+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:28 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:28.345+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:28.348+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:28 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:28.576+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:28.578+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:28 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:28.807+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:28.808+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:28 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:29.037+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:29.039+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:29 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:29.282+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:29.284+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:29 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:29.510+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:29.512+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:29 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:29.739+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:29.740+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:29 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:29.962+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:29.963+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:29 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:30.212+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:30.214+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:30 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:30.449+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:30.451+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:30 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:30.682+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:30.684+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:30 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:30.926+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:30.927+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:30 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:31.158+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:31.159+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:31 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:31.399+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:31.400+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:31 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:31.627+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:31.629+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:31 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:31.852+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:31.853+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:31 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:32.082+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:32.083+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:32 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:32.307+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:32.308+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:32 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:32.590+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:32.591+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:32 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:32.814+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:32.815+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:32 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:33.043+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:33.044+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:33 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:33.279+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:33.280+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:33 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:33.516+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:33.517+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:33 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:33.744+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:33.745+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:33 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:33.975+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:33.976+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:33 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:34.203+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:34.205+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:34 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:34.428+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:34.431+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:34 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:34.657+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:34.658+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:34 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:34.884+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:34.886+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:34 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:35.117+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:35.119+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:35 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:35.346+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:35.347+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:35 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:35.577+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:35.579+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:35 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:35.807+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:35.808+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:35 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:36.034+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:36.035+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:36 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:36.261+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:36.262+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:36 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:36.491+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:36.493+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:36 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:36.719+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:36.720+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:36 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:36.945+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:36.947+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:36 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:37.171+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:37.172+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:37 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:37.396+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:37.398+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:37 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:37.627+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:37.634+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:37 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:37.860+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:37.861+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:37 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:38.091+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:38.092+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:38 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:38.322+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:38.324+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:38 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:38.550+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:38.551+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:38 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:38.778+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:38.780+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:38 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:39.012+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:39.015+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:39 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:39.244+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:39.246+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:39 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:39.473+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:39.475+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:39 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:39.703+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:39.704+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:39 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:39.952+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:39.953+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:39 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:40.185+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:40.186+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:40 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:40.426+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:40.428+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:40 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:40.666+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:40.671+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:40 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:40.898+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:40.899+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:40 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:41.141+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:41.144+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:41 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:41.391+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:41.393+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:41 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:41.621+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:41.622+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:41 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:41.848+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:41.849+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:41 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:42.078+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:42.079+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:42 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:42.304+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:42.307+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:42 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:42.535+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:42.536+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:42 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:42.765+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:42.766+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:42 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:43.000+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:43.001+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:43 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:43.232+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:43.235+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:43 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:43.465+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:43.468+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:43 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:43.696+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:43.697+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:43 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:43.925+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:43.926+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:43 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:44.149+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:44.150+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:44 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:44.383+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:44.389+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:44 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:44.615+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:44.617+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:44 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:44.842+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:44.843+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:44 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:45.072+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : Minh @CircuitBreaker name circuitBreaker-def calledreceived
+2023-05-14T13:25:45.073+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:45 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:45.298+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:45 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:45.520+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:45 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:45.744+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:45 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:45.967+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:45 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:46.193+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:46 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:46.428+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:46 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:46.652+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:46 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:46.876+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:46 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:47.103+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:47 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:47.328+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:47 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:47.556+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:47 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:47.781+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:47 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:48.010+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:48 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:48.235+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:48 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:48.459+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:48 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:48.687+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:48 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:48.910+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:48 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:49.154+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:49 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:49.377+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:49 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:49.612+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:49 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:49.842+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:49 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:50.073+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:50 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:50.299+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:50 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:50.524+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:50 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:50.748+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:50 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:50.971+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:50 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:51.196+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:51 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:51.424+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:51 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:51.647+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:51 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:51.876+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:51 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:52.099+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:52 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:52.323+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:52 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:52.549+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:52 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:52.772+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:52 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:52.997+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:52 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:53.222+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:53 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:53.449+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:53 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:53.676+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:25:53 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:53.903+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:25:53 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:54.126+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:54 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:54.350+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:25:54 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:54.578+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:25:54 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:54.799+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:54 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:55.024+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:55 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:55.249+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:55 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:55.472+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:55 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:55.701+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:55 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:55.921+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:55 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:56.148+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:56 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:56.373+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:56 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:56.599+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:56 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:56.824+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:56 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:57.047+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:57 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:57.276+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:57 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:57.500+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:57 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:57.726+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:57 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:57.956+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:57 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:58.184+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:58 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:58.410+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:58 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:58.635+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:58 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:58.863+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:25:58 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:59.090+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:25:59 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:59.314+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:25:59 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:59.541+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:25:59 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:59.766+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:25:59 Fall back Exception/circuitBreaker/def
+2023-05-14T13:25:59.993+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:25:59 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:00.223+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:00 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:00.445+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:00 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:00.671+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:26:00 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:00.897+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:26:00 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:01.120+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:26:01 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:01.354+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:01 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:01.585+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:01 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:01.815+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:01 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:02.040+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:02 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:02.278+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:02 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:02.513+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:02 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:02.740+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:02 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:02.963+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:02 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:03.190+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:03 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:03.417+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:03 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:03.643+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:03 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:03.867+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:03 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:04.093+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:04 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:04.346+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:04 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:04.577+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:04 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:04.802+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:04 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:05.029+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:05 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:05.255+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:05 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:05.483+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:26:05 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:05.709+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:26:05 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:05.944+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:05 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:06.177+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:06 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:06.414+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:06 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:06.641+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:06 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:06.872+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:26:06 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:07.098+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:26:07 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:07.330+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:26:07 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:07.570+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:07 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:07.802+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:07 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:08.032+01:00  INFO 231 --- [nio-8000-exec-1] c.j.f.m.C.C.CircuitBreakerController     : 13:26:08 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:08.261+01:00  INFO 231 --- [nio-8000-exec-3] c.j.f.m.C.C.CircuitBreakerController     : 13:26:08 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:08.493+01:00  INFO 231 --- [nio-8000-exec-5] c.j.f.m.C.C.CircuitBreakerController     : 13:26:08 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:08.721+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:08 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:08.965+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:08 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:09.198+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:09 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:09.431+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:09 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:09.661+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:09 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:09.887+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:09 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:10.111+01:00  INFO 231 --- [nio-8000-exec-7] c.j.f.m.C.C.CircuitBreakerController     : 13:26:10 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:10.339+01:00  INFO 231 --- [nio-8000-exec-9] c.j.f.m.C.C.CircuitBreakerController     : 13:26:10 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:10.567+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:10 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:10.794+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:10 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:11.025+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:11 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:11.252+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:11 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:11.479+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:11 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:11.705+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:11 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:11.938+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:11 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:12.165+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:12 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:12.392+01:00  INFO 231 --- [nio-8000-exec-6] c.j.f.m.C.C.CircuitBreakerController     : 13:26:12 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:12.618+01:00  INFO 231 --- [nio-8000-exec-8] c.j.f.m.C.C.CircuitBreakerController     : 13:26:12 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:12.840+01:00  INFO 231 --- [io-8000-exec-10] c.j.f.m.C.C.CircuitBreakerController     : 13:26:12 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:13.067+01:00  INFO 231 --- [nio-8000-exec-2] c.j.f.m.C.C.CircuitBreakerController     : 13:26:13 Fall back Exception/circuitBreaker/def
+2023-05-14T13:26:13.293+01:00  INFO 231 --- [nio-8000-exec-4] c.j.f.m.C.C.CircuitBreakerController     : 13:26:13 Fall back Exception/circuitBreaker/def

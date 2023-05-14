@@ -9,4 +9,11 @@ After experiment I saw that:
 
 resilience4j.retry.instances.{name}.maxAttempts= 5
 
-	
+enableExponentialBackoff means if it failes, it will take longer for us to retry
+
+
+
+watch  -n 0.3 curl http://localhost:8000/circuitBreaker/def	
+
+
+watch  -n 0.1 curl http://localhost:8000/currency-exchange/from/USD/to/GBP
