@@ -1,0 +1,12 @@
+
+
+
+watch -n 5  curl http://localhost:8080/circuitBreaker/abc  
+
+After experiment I saw that:
+
+1. @Retry default call the api 3 times if the failed the third time then stop.
+
+resilience4j.retry.instances.{name}.maxAttempts= 5
+
+	
