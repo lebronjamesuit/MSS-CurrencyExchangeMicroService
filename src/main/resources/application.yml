@@ -1,0 +1,7 @@
+
+
+resilience4j.retry:
+    instances:
+        circuitBreaker-abc-5times:
+            maxAttempts: 6
+            waitDuration: 3s
