@@ -18,7 +18,7 @@ public class CircuitBreakerController {
 	@GetMapping("/circuitBreaker/abc")
 	@Retry(name = "circuitBreaker-abc-5times" , fallbackMethod = "justFallBackRetry")
 	public String sampleApi() {
-		logger.info("Minh Sample api call received");
+		logger.info("Minh wait Sample api call received");
 		ResponseEntity<String> forEntity = new RestTemplate().getForEntity("http://localhost:5000/some-dummy-url", 
 					String.class);
 		return forEntity.getBody();
