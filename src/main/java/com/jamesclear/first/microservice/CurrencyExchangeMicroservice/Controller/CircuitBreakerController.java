@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import io.github.resilience4j.retry.annotation.Retry;
+import reactor.core.publisher.Mono;
 
 @RestController
 public class CircuitBreakerController {
@@ -15,7 +16,7 @@ public class CircuitBreakerController {
 	private Logger logger = LoggerFactory.getLogger(CircuitBreakerController.class);
 	
 	@GetMapping("/circuitBreaker/abc")
-	@Retry(name = "circuitBreaker-abc-5times")
+	@Retry(name = "circuitBreaker-abc-5times" , fallbackMethod = "justFallBackRetry")
 	public String sampleApi() {
 		logger.info("Minh Sample api call received");
 		ResponseEntity<String> forEntity = new RestTemplate().getForEntity("http://localhost:5000/some-dummy-url", 
@@ -25,5 +26,14 @@ public class CircuitBreakerController {
 		//return "minh";
 		
 	}
+	
+	public String justFallBackRetry(Exception e) {
+		return "No method circuitBreaker/abc" ;
+		
+	}
+	
+//	public Mono<String> justFallBackRetry(NoSuchMethodException e){
+//		return Mono.just(e.getMessage()) ;
+//	}
 	
 }
