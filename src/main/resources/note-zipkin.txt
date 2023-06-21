@@ -1,0 +1,15 @@
+
+Log stop Zipkin
+docker container stop id...
+
+2023-06-21T05:47:26.151+01:00  INFO [currency-exchange-service,,] #SB3 58798 --- [trap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+
+
+Start ZipKin
+--- Zipkin 
+https://hub.docker.com/r/openzipkin/zipkin
+
+docker run -p 9411:9411 openzipkin/zipkin:2.23
+
+check out:  http://localhost:9411/zipkin/
+

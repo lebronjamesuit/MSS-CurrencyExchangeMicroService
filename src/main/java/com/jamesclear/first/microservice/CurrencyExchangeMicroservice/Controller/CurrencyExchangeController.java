@@ -1,5 +1,7 @@
 package com.jamesclear.first.microservice.CurrencyExchangeMicroservice.Controller;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.web.ServerProperties;
 import org.springframework.core.env.Environment;
@@ -13,6 +15,8 @@ import com.jamesclear.first.microservice.CurrencyExchangeMicroservice.Service.Cu
 @RestController
 public class CurrencyExchangeController {
 
+	private Logger logger = LoggerFactory.getLogger(CurrencyExchangeController.class);
+	
 	@Autowired
 	private Environment environment;
 	
@@ -29,6 +33,10 @@ public class CurrencyExchangeController {
 		// both can be useful
 		System.out.println(environment.getProperty("local.server.port"));
 		System.out.println(serverProperties.getPort());
+		
+		logger.info("Log at CurrencyExchangeController.class, path exchangeCurrency");
+		//currency-exchange-service,
+		// Trace id: 7db302f5ab910385889429ef76018255,f97b4bb4d6ac7cc0
 		
 		String port = serverProperties.getPort().toString();
 		
