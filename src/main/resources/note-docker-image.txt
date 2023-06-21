@@ -1,0 +1,30 @@
+
+How I created docker image
+
+Step 1: <plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+            <configuration>
+                <image>
+                    <name>jamesvo/mss-${project.artifactId}:${project.version}</name>
+                    <env>
+                        <BP_JVM_VERSION>${java.version}</BP_JVM_VERSION>
+                    </env>
+                </image>
+                <pullPolicy>IF_NOT_PRESENT</pullPolicy>
+            </configuration>
+        </plugin>
+
+Step 2: run iterm
+mvn spring-boot:build-image  -DskipTests
+
+Step 3 Result:
+INFO] Successfully built image 'docker.io/jamesvo/mss-currency-exchang-microservice:0.0.1-SNAPSHOT'
+
+Step 4:
+docker run -p 8000:8000 jamesvo/mss-currency-exchang-microservice:0.0.1-SNAPSHOT
+
+Step 5: If it started success, check at
+http://localhost:8000/currency-exchange/from/USD/to/GBP
+
+

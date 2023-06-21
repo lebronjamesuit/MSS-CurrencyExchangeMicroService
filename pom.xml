@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jamesclear.first.microservice</groupId>
-	<artifactId>CurrencyExchangeMicroservice</artifactId>
+	<artifactId>currency-exchang-microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CurrencyExchangeMicroservice</name>
 	<description>a small service in the ego</description>
@@ -118,6 +118,15 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<image>
+						<name>jamesvo/mss-${project.artifactId}:${project.version}</name>
+						<env>
+							<BP_JVM_VERSION>${java.version}</BP_JVM_VERSION>
+						</env>
+					</image>
+					<pullPolicy>IF_NOT_PRESENT</pullPolicy>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
