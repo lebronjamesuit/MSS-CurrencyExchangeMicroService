@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jamesclear.first.microservice</groupId>
-	<artifactId>currency-exchang-microservice</artifactId>
+	<artifactId>currency-exchange</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CurrencyExchangeMicroservice</name>
 	<description>a small service in the ego</description>

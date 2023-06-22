@@ -1,7 +1,9 @@
 
 How I created docker image
 
-Step 1: <plugin>
+Step 1: It's already supported in
+
+ <plugin>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
