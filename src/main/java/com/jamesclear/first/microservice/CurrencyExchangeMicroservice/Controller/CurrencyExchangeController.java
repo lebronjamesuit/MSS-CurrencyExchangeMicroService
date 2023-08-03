@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.jamesclear.first.microservice.CurrencyExchangeMicroservice.Bean.CurrencyExchange;
 import com.jamesclear.first.microservice.CurrencyExchangeMicroservice.Service.CurrencyRepo;
 
+import java.util.List;
+
 @RestController
 public class CurrencyExchangeController {
 
@@ -48,4 +50,10 @@ public class CurrencyExchangeController {
 			
 		return currencyExchange;
 	}
+
+	@GetMapping("/currency-exchange/all")
+	public List<CurrencyExchange> exchangeCurrency() {
+		return currencyRepo.findAll();
+	}
+
 }
